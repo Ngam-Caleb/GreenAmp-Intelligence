@@ -1,0 +1,18 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Streamlit local state
+.streamlit/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Operating system artifacts
+.DS_Store
+Thumbs.db
